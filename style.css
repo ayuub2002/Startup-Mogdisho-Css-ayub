@@ -1,0 +1,15 @@
+
+.banner{
+    width:50vw ;
+    height: 50vh;
+    background-color:rgb(102, 202, 55) ;
+
+}
+
+.header{
+    width:50vw ;
+    height:50vh ;
+    background-color:aqua ;
+    margin-top: 30px;
+    
+}
